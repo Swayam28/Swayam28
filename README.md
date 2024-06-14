@@ -10,7 +10,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Swayam28&color=0e75b6&style=flat&label=🍨_Nice_To_Meet_U!_You+are+my+visitor+No." alt="Swayam28" /> </p>
 <!-- github trophy start -->
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Swayam28&theme=algolia&no-bg=true&no-frame=true">
+    <img src="https://github-profile-trophy.vercel.app/?username=swayam28&theme=algolia&no-bg=true&no-frame=true">
 </div>
 <!-- github trophy end -->
 
