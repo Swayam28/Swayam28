@@ -4,10 +4,11 @@
     I'm Swayam Pati
   
 </h1>
-<h1 align="center"><img src="https://miro.medium.com/max/1400/0*FGD6BUzzZs1VJLuY.gif" align="center" width= "100%"  /> 
+
 <h3>
     <i>- I'm a Full Stack Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</i>
 </h3>
+<h1 align="center"><img src="https://miro.medium.com/max/1400/0*FGD6BUzzZs1VJLuY.gif" align="center" width= "100%"  /> 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=swayam28&color=0e75b6&style=flat&label=🍨_Nice_To_Meet_U!_You+are+my+visitor+No." alt="Swayam28" /> </p>
 <!-- github trophy start -->
 <div align="center">
